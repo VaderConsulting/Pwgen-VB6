@@ -1,6 +1,6 @@
 # Pwgen
 
-VB6 working copy of `Pwgen` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Password Generator. Output: `PWGen.exe`. `VersionCompanyName`: Empired Limited.
+Empired Limited VB6 Password Generator (`PWGen.exe` / `Pwgen.vbp`): Create N random passwords of a chosen length into a multiline box (Clear to reset). Open `Pwgen.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
